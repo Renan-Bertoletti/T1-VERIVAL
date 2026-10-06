@@ -1,7 +1,7 @@
 # Trabalho T1 — Verificação e Validação de Software
 
 **PUCRS — Escola Politécnica**  
-**Disciplina:** Verificação e Validação de Software (2026/I)  
+**Disciplina:** Verificação e Validação de Software (2026/II)  
 **Professor:** Prof. Dr. Marco Aurélio Souza Mangan  
 **Autores:** Juliano Machado e Renan Bertoletti  
 
